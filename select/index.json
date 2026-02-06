@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "生きる偉人たちよ",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2026-02-06T08:28:51.031522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "生きる偉人たちよ",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/01_生きる偉人たちよ_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "生きる偉人たちよ - Ikiruijintachiyo",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/02_生きる偉人たちよ_-_Ikiruijintachiyo_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きる偉人たちよ",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_生きる偉人たちよ_Tani_Yuuki.txt"
+    }
+  ]
+}
